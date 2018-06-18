@@ -13,4 +13,4 @@ print(url)
 
 import webbrowser
 
-webbrowser.open('https://github.com/')
+webbrowser.open(url)
